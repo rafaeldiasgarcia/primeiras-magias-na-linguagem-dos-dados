@@ -1,7 +1,7 @@
-SELECT idCliente, 
-       qtdePontos, 
-       DtCriacao 
+SELECT idCliente,  
+       DtCriacao,
+       DtAtualizacao
 
-FROM clientes
+FROM clientes;
 
-LIMIT 10
+SELECT 'TESTE';
