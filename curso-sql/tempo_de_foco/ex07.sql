@@ -1,4 +1,4 @@
--- Lista de produtos que são “chapéu”;
+-- Lista de produtos que são “chapéu”
 
 SELECT *
 
