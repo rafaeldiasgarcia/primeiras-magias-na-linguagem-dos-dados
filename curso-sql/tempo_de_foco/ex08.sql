@@ -1,5 +1,7 @@
--- Lista de transações com o produto “Resgatar Ponei”;
+-- Lista de transações com o produto “Resgatar Ponei”
 
-SELECT *
+SELECT * 
 
-FROM transacoes
+FROM transacao_produto
+
+WHERE IdProduto = 15
