@@ -13,4 +13,5 @@ FROM produtos
 
 -- WHERE DescNomeProduto LIKE 'Churn%' 
 
-WHERE DescCategoriaProduto = '	churn_model'
+WHERE DescCategoriaProduto = 'churn_model'
+
